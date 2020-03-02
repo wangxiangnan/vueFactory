@@ -1,4 +1,4 @@
-const hostUrl = 'http://dev.mumway.com';
+const hostUrl = 'http://testing.mumway.com';
 export default {
     title: '月嫂见面会',
     imgDir: '//static.mumway.com/lp/meeting/',

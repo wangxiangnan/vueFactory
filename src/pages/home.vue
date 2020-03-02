@@ -13,12 +13,12 @@
 </template>
 
 <script>
-import PageOne from './PageOne';
-import PageTwo from './PageTwo';
-import PageThree from './PageThree';
-import Invalid from './Invalid';
-import DialogForm from './DialogForm';
-import DialogSuccess from './DialogSuccess';
+import PageOne from '../components/PageOne';
+import PageTwo from '../components/PageTwo';
+import PageThree from '../components/PageThree';
+import Invalid from '../components/Invalid';
+import DialogForm from '../components/DialogForm';
+import DialogSuccess from '../components/DialogSuccess';
 export default {
   components: {
     PageOne,
